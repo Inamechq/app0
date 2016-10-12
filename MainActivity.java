@@ -19,7 +19,7 @@ import com.example.administrator.searchdata.db.SearchHistoryDaoImpl;
 import java.util.List;
 
 public class MainActivity extends AppCompatActivity {
-////
+////1111
     SearchView searchView;
     ListView listView;
     TextView clear;
